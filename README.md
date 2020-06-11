@@ -1,0 +1,1 @@
+Command which uses to run celery: celery -A celery_app.tasks worker -l info
