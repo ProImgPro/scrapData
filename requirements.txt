@@ -24,7 +24,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 kombu==3.0.37
 locust==1.0.1
-lxml==4.5.0
+lxml==4.6.2
 MarkupSafe==1.1.1
 marshmallow==3.6.0
 msgpack==1.0.0
